@@ -1,0 +1,55 @@
+* Physics
+** DONE Watch 2 Physics Videos
+<2025-01-16 Thu>
+
+https://apclassroom.collegeboard.org/d/at1oxrgrb3?sui=78,8
+
+https://apclassroom.collegeboard.org/d/fjtmio16b2?sui=78,8
+
+** TODO study Physics
+<2025-02-12 Wed>
+Start converting mechanics/E&M notes to LaTeX
+** DONE complete Physics Plickers
+<2025-02-12 Wed>
+** DONE physics lab
+<2025-02-12 Wed>
+* Math
+** DONE Math Worksheet
+<2025-02-11 Tue>
+** KILL Study MacLaurin Errors
+<2025-02-11 Tue>
+* Econ
+** KILL Study For Econ
+- Note taken on [2025-01-21 Tue 13:36] \\
+  Do this + the problem set
+<2025-01-22 Wed>
+Have a rough summary + key concepts
+
+** DONE Unit 3 Problem Set
+<2025-02-11 Tue>
+
+* English
+** DONE Do English MCQ
+<2025-01-22 Wed>
+
+Please PLEASE get this done
+
+** DONE Write down English Topic
+<2025-01-21 Tue>
+
+you want to refine your prompt more
+
+** TODO Research English Topic
+<2025-02-12 Wed>
+** TODO Write Lit Review outline
+[[file:///home/kira/school/junior/public_space_proj][sources found here]]
+<2025-02-12 Tue>
+** DONE English 3rd MCQ
+SCHEDULED: <2025-02-12 Wed>
+
+* APUSH
+** KILL study unit 7
+<2025-01-22 Wed>
+
+** KILL study terms from anki deck
+<2025-02-11 Tue>
