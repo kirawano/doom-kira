@@ -1,0 +1,2 @@
+* MY DOOM EMACS CONFIG
+Huge thank you to Sam ([[https://github.com/CrustyKnight][CrustyKnight]])
