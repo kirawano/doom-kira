@@ -1,3 +1,6 @@
-* TODO Work on Autonomous Path
-<2025-01-16 Thu>
-Ask Sam for the current file he has, then start working more on it
+* DONE tune PID for peak level 1
+<2025-02-26 Wed>
+
+* TODO debug display code
+<2025-03-02 Sun>
+

@@ -6,13 +6,15 @@ https://apclassroom.collegeboard.org/d/at1oxrgrb3?sui=78,8
 
 https://apclassroom.collegeboard.org/d/fjtmio16b2?sui=78,8
 
-** TODO study Physics
-<2025-02-12 Wed>
+** KILL study Physics
+SCHEDULED: <2025-02-25 Tue>
 Start converting mechanics/E&M notes to LaTeX
 ** DONE complete Physics Plickers
 <2025-02-12 Wed>
 ** DONE physics lab
 <2025-02-12 Wed>
+** DONE finish physics takehome test
+<2025-02-24 Mon>
 * Math
 ** DONE Math Worksheet
 <2025-02-11 Tue>
@@ -28,6 +30,9 @@ Have a rough summary + key concepts
 ** DONE Unit 3 Problem Set
 <2025-02-11 Tue>
 
+** DONE both econ problem sheets
+<2025-02-26 Wed>
+DEADLINE: <2025-02-27 Thu>
 * English
 ** DONE Do English MCQ
 <2025-01-22 Wed>
@@ -39,14 +44,18 @@ Please PLEASE get this done
 
 you want to refine your prompt more
 
-** TODO Research English Topic
+** DONE Research English Topic
 <2025-02-12 Wed>
-** TODO Write Lit Review outline
+** DONE Write Lit Review outline
 [[file:///home/kira/school/junior/public_space_proj][sources found here]]
 <2025-02-12 Tue>
 ** DONE English 3rd MCQ
 SCHEDULED: <2025-02-12 Wed>
 
+** DONE analyze rhetorical diction in DH quote
+SCHEDULED: <2025-02-24 Mon>
+** TODO do English MCQ
+<2025-02-28 Fri>
 * APUSH
 ** KILL study unit 7
 <2025-01-22 Wed>

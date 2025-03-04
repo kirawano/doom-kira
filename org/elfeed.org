@@ -1,0 +1,6 @@
+* root :elfeed:
+
+** Japanese / Language Learning :japanese:
+*** [[https://youtube.com/feeds/videos.xml?channel_id=UCN9MogYelpco4CI1jN9B_BA][FreeBirdJP]] :freebirdjp:
+
+*** [[https://youtube.com/feeds/videos.xml?channel_id=UCgHGPOxUMfWsiy1ZyR-tLVw][Livakivi]] :livakivi:
